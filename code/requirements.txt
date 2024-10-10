@@ -1,0 +1,6 @@
+openai
+streamlit
+streamlit_float
+transformers
+torch
+scikit-learn
